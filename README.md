@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./img.jpg">
+  <img width="100%" src="https://github.com/fernandobandeira/fernandobandeira/raw/master/img.jpg">
 </p>
 
 <!--
