@@ -1,4 +1,8 @@
-### Hi there 👋
+### Coding time :alien:
+
+<p align="center">
+  <img width="100%" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
+</p>
 
 <!--
 **fernandobandeira/fernandobandeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
