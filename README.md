@@ -1,8 +1,6 @@
 <p align="center">
-  <img width="100%" src="https://github.com/fernandobandeira/fernandobandeira/raw/master/glitch.gif">
+  <a href="http://codepen.io/lbebber/pen/ypgql"><img width="100%" src="https://github.com/fernandobandeira/fernandobandeira/raw/master/glitch.gif"></a>
 </p>
-
-[Glitch Effect Code (CSS3)](http://codepen.io/lbebber/pen/ypgql)
 
 - 🔭 Always experimenting new techs, found something cool? Tell me about it =);
 - 🌱 Currently learning Golang;
