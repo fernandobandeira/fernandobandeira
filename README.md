@@ -2,6 +2,13 @@
   <img width="100%" src="https://github.com/fernandobandeira/fernandobandeira/raw/master/glitch.gif">
 </p>
 
+[Glitch Effect Code (CSS3)](http://codepen.io/lbebber/pen/ypgql)
+
+- 🔭 Always experimenting new techs, found something cool? Tell me about it =);
+- 🌱 Currently learning Golang;
+- ⚡ Working on a full Serverless app from back to front;
+- 😄 Planning on starting a new project using the Laravel stack.
+
 <!--
 **fernandobandeira/fernandobandeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
