@@ -5,7 +5,7 @@
 - 🔭 Always experimenting new techs, found something cool? Tell me about it =);
 - 🌱 Currently learning Golang;
 - ⚡ Working on a full Serverless app from back to front;
-- 😄 Planning on starting a new project using the Laravel stack.
+- 😍 Falling in love with Elixir/Phoenix.
 
 <!--
 **fernandobandeira/fernandobandeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
