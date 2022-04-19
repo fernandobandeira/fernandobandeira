@@ -14,4 +14,4 @@
 
 <br/>
 
-![Metrics](https://metrics.lecoq.io/fernandobandeira?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.only=maintainer%2C%20polyglot%2C%20member%2C%20contributor&config.timezone=America%2FSao_Paulo)
+<img align="center" alt="Fer-Metrics" src="https://raw.githubusercontent.com/fernandobandeira/fernandobandeira/master/achievements.svg">
