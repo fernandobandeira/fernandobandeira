@@ -1,10 +1,6 @@
-<div>
-  <a href="https://github.com/fernandobandeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandobandeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobandeira&layout=compact&langs_count=8&theme=dark"/>
-</div>
-  
-  <div style="display: inline_block"><br>
+![Snake animation](https://github.com/fernandobandeira/fernandobandeira/blob/output/github-contribution-grid-snake.svg)
+
+ <div style="display: inline_block"><br>
     <img align="center" alt="Fer-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
     <img align="center" alt="Fer-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
     <img align="center" alt="Fer-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
@@ -16,4 +12,6 @@
   <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![Snake animation](https://github.com/fernandobandeira/fernandobandeira/blob/output/github-contribution-grid-snake.svg)
+<br/>
+
+![Metrics](https://metrics.lecoq.io/fernandobandeira?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.only=maintainer%2C%20polyglot%2C%20member%2C%20contributor&config.timezone=America%2FSao_Paulo)
