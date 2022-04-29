@@ -16,7 +16,7 @@ jobs:
           github_user_name: fernandobandeira
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=orange&color_dots=#d0d0d0,#1c7111,#2eaa1f,#46e133,#1dff00
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
