@@ -1,4 +1,5 @@
-![Snake animation](https://github.com/fernandobandeira/fernandobandeira/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://github.com/fernandobandeira/fernandobandeira/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/fernandobandeira/fernandobandeira/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
  <div style="display: inline_block"><br>
     <img align="center" alt="Fer-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
